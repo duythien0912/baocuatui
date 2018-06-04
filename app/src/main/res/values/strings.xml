@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BAOCUATUI</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_favorites">24h</string>
+    <string name="text_schedules">Vnexpress</string>
+    <string name="text_tinhte">Tinhte.vn</string>
+    <string name="text_kenh14">Kenh14</string>
+
+</resources>
